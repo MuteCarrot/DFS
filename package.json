@@ -1,0 +1,17 @@
+{
+  "name": "adaptive-decision-framing",
+  "version": "0.3.0",
+  "description": "An installable open agent skill for adaptive decision framing.",
+  "scripts": {
+    "dev": "python3 app/server.py",
+    "start": "python3 app/server.py",
+    "analyze": "python3 app/decision_engine.py"
+  },
+  "keywords": [
+    "agent-skill",
+    "ai",
+    "decision-framework"
+  ],
+  "author": "pragyan-divami",
+  "license": "MIT"
+}
